@@ -12,6 +12,8 @@
 1. Override all three of those methods on some of the vehicles. For example, the `Stop()` method for a plane would be to output the message _"The white Cessna rolls to a stop after rolling a mile down the runway."_
 1. Make your vehicle instances perform all three behaviors.
 
+![](https://github.com/nashville-software-school/bangazon-inc/blob/tabloid/book-1-orientation/chapters/images/inheritance-vehicles-drive.gif?raw=true)
+
 # Interfaces
 
 ## Practice: More Gary's Wholesale Garage
@@ -162,4 +164,3 @@ namespace Garage
     }
 }
 ```
-![](https://github.com/nashville-software-school/bangazon-inc/blob/tabloid/book-1-orientation/chapters/images/inheritance-vehicles-drive.gif?raw=true)
